@@ -1,0 +1,6 @@
+{
+  "name": "AI-Differentiation — Математикадан интерактивті бейімделмелі платформа",
+  "description": "5-9 сыныптарға арналған математика пәнінен деңгейлік (A, B, C) тапсырмалар жинағын құрастыратын және оқушы қабілетіне қарай бейімделетін автоматты жүйе.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
